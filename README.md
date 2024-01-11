@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CKA - Certified Kubernetes Administrator](https://github.com/ahsfar/cka_study_guide)
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Kubernetes, Azure**
 
 - 👯 I’m looking to collaborate on **Cloud and DevOps**
 
