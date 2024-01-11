@@ -1,4 +1,4 @@
-<a href="https://imgur.com/A3Obbao"><img src="https://i.imgur.com/A3Obbao.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/qcAWSd6"><img src="https://i.imgur.com/qcAWSd6.png" title="source: imgur.com" /></a>
 <h3 align="center">I'm a passionate Cloud and DevOps Engineer</h3>
 <h1 align="center"></h1>
 
