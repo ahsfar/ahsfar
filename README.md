@@ -1,6 +1,6 @@
 <a href="https://imgur.com/A3Obbao"><img src="https://i.imgur.com/A3Obbao.png" title="source: imgur.com" /></a>
-<h1 align="center">Hi 👋, I'm Ahsan</h1>
-<h3 align="center">A passionate Cloud and DevOps Engineer from HK</h3>
+<h1 align="center">A passionate Cloud and DevOps Engineer</h1>
+//<h3 align="center"></h3>
 
 - 🔭 I’m currently working on [CKA - Certified Kubernetes Administrator](https://github.com/ahsfar/cka_study_guide)
 
