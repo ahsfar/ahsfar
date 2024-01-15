@@ -10,7 +10,7 @@
 
 /*
 - 👨‍💻 All of my projects are available at [ahsanfarooq.net](ahsanfarooq.net)
-- */
+*/
 
 - 💬 Ask me about **Cloud, DevOps, CI/CD, AWS**
 
