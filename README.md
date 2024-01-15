@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud and DevOps**
 
-- 👨‍💻 All of my projects are available at [ahsanfarooq.net](ahsanfarooq.net)
+// - 👨‍💻 All of my projects are available at [ahsanfarooq.net](ahsanfarooq.net)
 
 - 💬 Ask me about **Cloud, DevOps, CI/CD, AWS**
 
