@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on Terraform, AZ-104 and assisting startup maximize Eefficiency and agility of PAAS offering with Cloud Infrastructure and DevOps best Practices and tools
  
-- 🌱 I’m currently learning **Kubernetes, Azure**
+- 🌱 I’m currently upskilling myself on **Azure & Terraform**
 
 - 👯 I’m looking to collaborate on **Cloud and DevOps**
 
 <!--- - 👨‍💻 All of my projects are available at [ahsanfarooq.net](ahsanfarooq.net) --->
 
-- 💬 Ask me about **Cloud, DevOps, CI/CD, AWS**
+- 💬 Ask me about **Cloud, DevOps, CI/CD, AWS, Kubernetes**
 
 - 📫 How to reach me **ahsfar21@gmail.com**
 
