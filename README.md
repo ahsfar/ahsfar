@@ -1,9 +1,9 @@
-<img src="https://i.imgur.com/qcAWSd6.png" title="source: imgur.com" />
+<!--- <img src="https://i.imgur.com/qcAWSd6.png" title="source: imgur.com" /> --->
 <h3 align="center">I'm an aspiring and passionate Cloud & DevOps Engineer</h3>
 
 
-- 🔭 I’m currently working on [CKA - Certified Kubernetes Administrator](https://github.com/ahsfar/cka_study_guide)
-
+- 🔭 I’m currently working on Terraform, AZ-104 and helping startup with Cloud Infrastructrure and DevOps culture and tools for providing PAAS.
+ 
 - 🌱 I’m currently learning **Kubernetes, Azure**
 
 - 👯 I’m looking to collaborate on **Cloud and DevOps**
