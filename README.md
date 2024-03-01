@@ -2,7 +2,7 @@
 <h3 align="center">I'm an aspiring and passionate Cloud & DevOps Engineer</h3>
 
 
-- 🔭 I’m currently working on Terraform, AZ-104 and helping startup with Cloud Infrastructrure and DevOps culture and tools for providing PAAS.
+- 🔭 I’m currently working on Terraform, AZ-104 and assisting startup maximize Eefficiency and agility of PAAS offering with Cloud Infrastructure and DevOps best Practices and tools
  
 - 🌱 I’m currently learning **Kubernetes, Azure**
 
