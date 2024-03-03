@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Terraform, AZ-104 and assisting startup maximize efficiency and agility of SAAS offering with Cloud Infrastructure and DevOps best Practices and tools (IaC, Automation, Containerization & Orchestration, CI/CD, Monitoring & Logging, Scalability & High Availability, Security & Compliance, Configuration Management, Disaster Recovery & Backup, Cloud Migration & Cloud Cost Optimization, GitOps, Collaboration & Communication, Automated Testing and more)
  
-- 🌱 I’m currently upskilling myself on **Azure & Terraform**
+- 🌱 I’m currently upskilling myself on **Azure, Terraform & Python Scripting**
 
 - 👯 I’m looking to collaborate on **Cloud and DevOps**
 
