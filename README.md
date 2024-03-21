@@ -1,10 +1,10 @@
 <!--- <img src="https://i.imgur.com/qcAWSd6.png" title="source: imgur.com" /> --->
-<h3 align="center">I'm an aspiring and passionate Cloud & DevOps Engineer</h3>
+<h3 align="center">Hi I'm Ahsan an aspiring and passionate Cloud & DevOps Engineer</h3>
 
 
-- 🔭 I’m currently working on Terraform, AZ-104 and assisting startup maximize efficiency and agility of SAAS offering with Cloud Infrastructure and DevOps best Practices and tools (IaC, Automation, Containerization & Orchestration, CI/CD, Monitoring & Logging, Scalability & High Availability, Security & Compliance, Configuration Management, Disaster Recovery & Backup, Cloud Migration & Cloud Cost Optimization, GitOps, Collaboration & Communication, Automated Testing and more)
+- 🔭 I’m currently assisting startup maximize efficiency and agility of SAAS offering with Cloud Infrastructure and DevOps best Practices and tools (IaC, Automation, Containerization & Orchestration, CI/CD, Monitoring & Logging, Scalability & High Availability, Security & Compliance, Configuration Management, Disaster Recovery & Backup, Cloud Migration & Cloud Cost Optimization, GitOps, Collaboration & Communication, Automated Testing and more)
  
-- 🌱 I’m currently upskilling myself on **Azure, Terraform & Python Scripting**
+- 🌱 I’m currently upskilling myself on **Azure (AZ-104), GitOps(ArgoCD) & Python Scripting**
 
 - 👯 I’m looking to collaborate on **Cloud and DevOps**
 
