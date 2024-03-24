@@ -2,7 +2,9 @@
 <h3 align="center">Hi I'm Ahsan an aspiring and passionate Cloud & DevOps Engineer</h3>
 
 
-- 🔭 I’m currently assisting startup maximize efficiency and agility of SAAS offering with Cloud Infrastructure and DevOps best Practices and tools (IaC, Automation, Containerization & Orchestration, CI/CD, Monitoring & Logging, Scalability & High Availability, Security & Compliance, Configuration Management, Disaster Recovery & Backup, Cloud Migration & Cloud Cost Optimization, GitOps, Collaboration & Communication, Automated Testing and more)
+- 🔭 I’m currently assisting startup maximize efficiency and agility of SAAS offering with Cloud Infrastructure and DevOps best Practices and tools
+
+  Utilizing concepts like IaC, Automation, Containerization & Orchestration, CI/CD, Monitoring & Logging, Scalability & High Availability, Security & Compliance, Configuration Management, Disaster Recovery & Backup, Cloud Migration & Cloud Cost Optimization, GitOps, Collaboration & Communication, Automated Testing and more.
  
 - 🌱 I’m currently upskilling myself on **Azure (AZ-104), GitOps(ArgoCD) & Python Scripting**
 
