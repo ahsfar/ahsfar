@@ -6,7 +6,7 @@
 
   Utilizing concepts like **IaC, Automation, Containerization & Orchestration, CI/CD, Monitoring & Logging, Scalability & High Availability, Security & Compliance, Configuration Management, Disaster Recovery & Backup, Cloud Migration & Cloud Cost Optimization, GitOps, Collaboration & Communication, Automated Testing** and more.
 
- Technologies: Terraform, Ansible, AWS, Jenkins, ArgoCD, Trivy, Docker, Kubernetes, Prometheus, Grafana, Python, Bash, Linux, OWASP ZAP, Git, React Native, MongoDB, NodeJs and more.
+   Technologies: Terraform, Ansible, AWS, Jenkins, ArgoCD, Trivy, Docker, Kubernetes, Prometheus, Grafana, Python, Bash, Linux, OWASP ZAP, Git, React Native, MongoDB, NodeJs and more.
 
  
 - 🌱 I’m currently upskilling myself on **Azure (AZ-104), GitOps(ArgoCD) & Python Scripting**
