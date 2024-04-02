@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ahsfar21@gmail.com**
 
-- ⚡ I've created repos for anyone pursuing **[CKA]()** & **[Terraform]()**
+- ⚡ I've created guide repos for anyone pursuing **[CKA](https://github.com/ahsfar/cka_study_guide)** & **[Terraform](https://github.com/ahsfar/terraform_asso_cert_guide)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
