@@ -9,7 +9,7 @@
    Technologies: Terraform, Ansible, AWS, Jenkins, ArgoCD, Trivy, Docker, Kubernetes, Prometheus, Grafana, Python, Bash, Linux, OWASP ZAP, Git, React, MongoDB, NodeJs and more.
 
  
-- 🌱 I’m currently upskilling myself on **Azure (AZ-104), GitOps(ArgoCD) & Python Scripting**
+- 🌱 I’m currently upskilling myself on **LFCS & Python Scripting**
 
 - 👯 I’m looking to collaborate on **Cloud and DevOps**
 
