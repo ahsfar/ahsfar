@@ -2,7 +2,7 @@
 <h3 align="center">Hi I'm Ahsan an aspiring and passionate Cloud & DevOps Engineer</h3>
 
 
-- 🔭 I’m currently assisting startup maximize efficiency and agility of SAAS offering with Cloud Infrastructure and DevOps best Practices and tools.
+- 🔭 I’m currently assisting startup maximize efficiency and agility of SAAS offering with Cloud Infrastructure and DevOps best Practices and tools and developing MERN stack product.
 
   Utilizing concepts like **IaC, Automation, Containerization & Orchestration, CI/CD, Monitoring & Logging, Scalability & High Availability, Security & Compliance, Configuration Management, Disaster Recovery & Backup, Cloud Migration & Cloud Cost Optimization, GitOps, Collaboration & Communication, Automated Testing** and more.
 
