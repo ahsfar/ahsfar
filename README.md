@@ -11,7 +11,7 @@
  
 - 🌱 I’m currently upskilling myself on **LFCS, Python Scripting & Hands on skills by doing projects**
 
-- 👯 I’m looking to collaborate on **Cloud and DevOps**
+- 👯 I’m looking to collaborate on **Cloud, DevOps, SASS product and MERN Stack Development**
 
 <!--- - 👨‍💻 All of my projects are available at [ahsanfarooq.net](ahsanfarooq.net) --->
 
