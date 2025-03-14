@@ -1,5 +1,5 @@
 <!--- <img src="https://i.imgur.com/qcAWSd6.png" title="source: imgur.com" /> --->
-<h3 align="center">Hi I'm Ahsan an aspiring and passionate Cloud & DevOps Engineer</h3>
+<h3 align="center">Hi I'm passionate Cloud & DevOps Engineer</h3>
 
 
 - 🔭 I’m currently assisting startup maximize efficiency and agility of SAAS offering with Cloud Infrastructure and DevOps best Practices and tools and developing MERN stack product.
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Cloud, DevOps, CI/CD, AWS, Kubernetes**
 
-- 📫 How to reach me **ahsfar21@gmail.com**
+<!--- - 📫 How to reach me **ahsfar21@gmail.com** --->
 
 - ⚡ I've created guide repos for anyone pursuing **[CKA: Certified Kubernetes Administrator](https://github.com/ahsfar/cka_study_guide)**, **[Terraform Associate (003)](https://github.com/ahsfar/terraform_asso_cert_guide)** & **[Linux Foundation Certified System Admin - LFCS)](https://github.com/ahsfar/LFCS-guide)** 
 
