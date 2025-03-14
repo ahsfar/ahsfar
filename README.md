@@ -1,5 +1,5 @@
 <!--- <img src="https://i.imgur.com/qcAWSd6.png" title="source: imgur.com" /> --->
-<h3 align="center">Hi I'm passionate Cloud & DevOps Engineer</h3>
+<h3 align="center">Passionate Cloud & DevOps Engineer</h3>
 
 
 - 🔭 I’m currently assisting startup maximize efficiency and agility of SAAS offering with Cloud Infrastructure and DevOps best Practices and tools and developing MERN stack product.
